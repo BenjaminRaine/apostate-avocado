@@ -1,9 +1,5 @@
 "# apostate-avocado" 
 
-Possible Project Ideas:
+https://docs.google.com/document/d/1SRpll37ExBt4oZMETwwR3TMvLaap24InJZaEmDJaiRk/
 
-1. A Unity game of some sort (AR?)
-2. Ranker (sorter) for TV shows, movies, etc
-3. ...
-4. ...
-5. ...
+This application will send push notifications to the user to remind them of certain weather conditions and recommendations to properly dress for them.
